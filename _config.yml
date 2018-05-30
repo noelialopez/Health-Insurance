@@ -1,20 +1,20 @@
 
 title: My Resume
 url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+baseurl: '/noelialopez.github.io' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: NOELIA LOPEZ  ## put your name
+title: 'DATA SCIENTIST'  ## your title
+location: SYDNEY , AUSTRALIA
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
+facebook: https://www.facebook.com/noni.bolson  ## your facebook account url
 twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
+linkedin: www.linkedin.com/in/noelia-carolina-lópez  ## your linkedin account url
 dribbble: http://www.dribble.com  ## you dribbble account url
 foursquare: http://www.foursquare.com  ## your foursquare account url
 
